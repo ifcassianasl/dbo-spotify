@@ -16,7 +16,7 @@
     "eslint-config-google": "^0.9.1",
     "firebase-tools": "^4.2.1",
     "mocha": "^5.1.1",
-    "node-sass": "^4.9.3",
+    "node-sass": "^4.13.1",
     "parcel-bundler": "^1.9.7",
     "pug": "^2.0.3",
     "firebase": "^5.5.1",
